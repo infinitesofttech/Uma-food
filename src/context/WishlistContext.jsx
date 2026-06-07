@@ -12,7 +12,7 @@ import {
   addWishlist,
   removeWishlist,
   clearWishlistAPI,
-} from "../api/wishlistAPI";
+} from "../api/wishlistApi";
 
 const WishlistContext = createContext();
 

@@ -7,7 +7,7 @@ import React, {
 } from "react";
 
 import { useAuth } from "./AuthContext";
-import { cartAPI } from "../api/cartAPI";
+import { cartAPI } from "../api/cartApi";
 
 const CartContext = createContext();
 
