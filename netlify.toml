@@ -4,6 +4,7 @@
 
 [build.environment]
   NODE_VERSION = "22.20.0"
+  CI = "false"
 
 [[redirects]]
   from = "/*"
